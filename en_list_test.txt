@@ -1,0 +1,4 @@
+https://github.com/andypresovsky/RosPrayXcode/tree/master/raw/en_jesusprayer.mp3
+https://github.com/andypresovsky/RosPrayXcode/tree/master/raw/en_glorytothefather.mp3
+https://github.com/andypresovsky/RosPrayXcode/tree/master/raw/en_otcenas.mp3
+https://github.com/andypresovsky/RosPrayXcode/tree/master/raw/en_simbolviery.mp3
