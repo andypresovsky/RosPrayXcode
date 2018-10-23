@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Rosarium Latinae Audio Offline</string>
+    <string name="banner_ad_unit_id">ca-app-pub-1849249632377417/9655357081</string>
+    <string name="sharetext" translatable="false">https://play.google.com/store/apps/details?id=com.wordpress.andypresovsky.rosariumaudio</string>
+    <string name="share">Condividere</string>
+    <string name="rate">Vota con 5 stelle si prega</string>
+    <string name="pondelok">Lun - Mysteria Gaudiosa</string>
+    <string name="utorok">Mar - Mysteria Dolorosa</string>
+    <string name="streda">Mer - Mysteria Gloriosa</string>
+    <string name="stvrtok">Iov - Mysteria Luminosa</string>
+    <string name="piatok">Ven - Mysteria Dolorosa</string>
+    <string name="sobota">Sat - Mysteria Gaudiosa</string>
+    <string name="nedela">Sol - Mysteria Gloriosa</string>
+    <string name="korunka">Divina Misericordia</string>
+</resources>
